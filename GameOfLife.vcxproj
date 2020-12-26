@@ -140,10 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GameOfLife.cpp" />
-    <ClCompile Include="GameOfLife2.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="olcConsoleGameEngine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
